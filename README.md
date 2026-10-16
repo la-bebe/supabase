@@ -1,1 +1,1 @@
-README.tr.md
+README.md
