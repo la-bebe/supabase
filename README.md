@@ -1,1 +1,1 @@
-README.md
+README.mdhttps://github.com/supabase/supabase/blob/master/CONTRIBUTING.md
